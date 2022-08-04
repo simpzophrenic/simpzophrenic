@@ -4,6 +4,8 @@ I'm Toasty9004 (also known as Andrew)
 
 I create Windows Tools, so yeah...
 
+All my links!: https://linktr.ee/9004andthestuff
+
 You can reach me at: toasty9004dev@proton.me or maybeiwasdreaming528@gmail.com 
 
 ### `(¯\_(ツ)_/¯)`
