@@ -2,7 +2,7 @@
 
 I'm Toasty9004 (also known as Andrew)
 
-I create Windows Tools, so yeah...
+I create whatever i like (suggest some stupid ideas via mail)
 
 All my links!: https://linktr.ee/itshayvune
 
