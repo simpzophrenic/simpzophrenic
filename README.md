@@ -1,16 +1,19 @@
+<h1 align="center">Hi 👋, I'm hayvune</h1>
+<h3 align="center">A random boy comes from Vietnam</h3>
 
-### Hi there 👋
+- Projects [Notes (litterally my test)](notes.itshayvune.repl.co)
 
-I'm hayvune (previously as iamtoasty)
+- My current feeling **Exaushted**
 
-I create whatever i like (suggest some stupid ideas via mail)
+- My links [Click here!](https://linktr.ee/itshayvune)
 
-Also a Vietnamese translator (English -> Tiếng Việt)
+- My laptop [Click here!](https://www.google.com/search?q=Laptop+HP+15s-fq2558TU&client=firefox-b-d&ei=-3spZK-bJMWR-AaVj5iACQ&ved=0ahUKEwjvhM-AoIv-AhXFCN4KHZUHBpAQ4dUDCA4&uact=5&oq=Laptop+HP+15s-fq2558TU&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwA0oECEEYAFAAWABgiARoAXABeACAAQCIAQCSAQCYAQDIAQjAAQE)
 
-All my links!: https://linktr.ee/itshayvune
+- What i can do? **Translator (vi -> en and backwards)**
 
-You can reach me at: toasty9004dev@proton.me or maybeiwasdreaming528@gmail.com 
+- Reach me **maybeiwasdreaming528@gmail.com**
 
-### `(¯\_(ツ)_/¯)`
+- ⚡ Fun fact **My English is bad as hell**
 
-[![trứng](https://readme-typing-svg.demolab.com?font=raleway&pause=1000&color=C015F7&width=435&lines=nh%C3%ACn+g%C3%AC%2C+c%C3%B3+con+ng%E1%BB%B1a+%E1%BB%9F+%C4%91%C3%A2y+%F0%9F%90%8E)](https://github.com/itshayvune)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
