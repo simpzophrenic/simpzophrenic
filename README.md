@@ -6,7 +6,7 @@ I create whatever i like (suggest some stupid ideas via mail)
 
 Also a Vietnamese translator (English -> Tiếng Việt)
 
-All my links!: https://linktr.ee/itshayvune
+All my links!: https://hayvune.bio.link
 
 You can reach me at: toasty9004dev@proton.me or maybeiwasdreaming528@gmail.com 
 
