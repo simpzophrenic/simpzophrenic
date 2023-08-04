@@ -8,7 +8,7 @@ Also a Vietnamese translator (English -> Vietnamese)
 
 [All my links!](https://hayvune.bio.link)
 
-You can reach me at:  maybeiwasdreaming528@gmail.com (recommended) or toasty9004dev@proton.me
+You can reach me at: maybeiwasdreaming528@gmail.com or toasty9004dev@proton.me
 
 ### `(¯\_(ツ)_/¯)`
 
