@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm hayvune (previously as iamtoasty)
+I'm hayvune (previously as iamtoasty), a 14 (?!) years old...
 
 I lost my coding root (praying i can learn Python properly and send some stupid requests to me)
 
