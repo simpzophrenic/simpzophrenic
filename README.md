@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-I'm hayvune (previously as iamtoasty), a 14 (?!) years old...
+i'm hayvune (previously as iamtoasty), a 14 (?!) years old...
 
-I lost my coding root (praying i can learn Python properly and send some stupid requests to me)
+con ng'bthg
 
-Also a Vietnamese translator (English -> Vietnamese)
+i lost my coding root (praying i can learn Python properly and send some stupid requests to me)
 
-[All my links!](https://hayvune.bio.link)
+also a Vietnamese translator (English -> Vietnamese)
 
-You can reach me at: maybeiwasdreaming528@gmail.com or toasty9004dev@proton.me
+[all my links!](https://hayvune.bio.link)
+
+you can reach me at: maybeiwasdreaming528@gmail.com or toasty9004dev@proton.me
 
 ### `(¯\_(ツ)_/¯)`
 
