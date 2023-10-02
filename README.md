@@ -1,6 +1,4 @@
-### Hi there 👋
-
-i'm hayvune (previously as iamtoasty), a 14 (?!) years old...
+[![ehe~](https://readme-typing-svg.demolab.com?font=Unbounded&duration=2000&pause=3000&color=6019EB&center=true&vCenter=true&width=435&lines=Hello!+M%C3%ACnh+l%C3%A0+Hyako+Thanh+Ho%C3%A0ng!;%E3%81%93%E3%81%AB%E3%81%A1%E3%82%8F%EF%BC%81%E7%A7%81%E3%82%8F%E3%81%B2%E3%82%83%E3%81%93%E3%81%A7%E3%81%99%EF%BC%81)](https://hayvune.bio.link)
 
 con ng'bthg
 
