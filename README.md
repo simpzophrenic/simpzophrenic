@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&duration=3000&pause=3000&color=5417F7&width=435&lines=hello!+m%C3%ACnh+l%C3%A0+Hyako+Thanh+Ho%C3%A0ng!;hey+there!+i'm+Hyako+Thanh+Ho%C3%A0ng!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!%E3%81%B2%E3%82%83%E3%81%93%E3%81%A7%E3%81%99!)](https://hayvune.bio.link)
+### Xin chào! mình là Hyako!
 
 con ng'bthg
 
