@@ -6,7 +6,7 @@ i lost my coding root (praying i can learn Python properly and send some stupid 
 
 also a Vietnamese translator (English -> Vietnamese)
 
-[all my links!](https://hayvune.bio.link)
+[twi](https://x.com/@maybeiwasdreaming)
 
 you can reach me at: maybeiwasdreaming528@gmail.com or toasty9004dev@proton.me
 
