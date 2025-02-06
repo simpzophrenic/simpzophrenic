@@ -6,7 +6,7 @@ i lost my coding root (praying i can learn Python properly and send some stupid 
 
 also a Vietnamese translator (English -> Vietnamese)
 
-[everything]((https://alyxvu.carrd.co/))
+[everything](https://alyxvu.carrd.co/)
 
 you can reach me at 16times16minus2@proton.me
 
